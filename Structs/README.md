@@ -52,10 +52,10 @@ struct Song {
 
 
  This creates a new type, called Song.
-
+ 
  You learned about properties in the Instances lesson. Song has three properties: title, artist, and duration, each declared with let and a type annotation. You can think of a Song as a group of three constants.
-
- Your struct is a new type, and like all other types (String, Int...) its name should begin with a capital letter. Property names should begin with lower case letters. This makes it easy to tell the difference between types and values when reading code.
+ 
+ Your struct is a new type, and like all other types (String, Int...) its name should begin with a capital letter. Property names should begin with lower case letters. This makes it easy to tell the difference between types and  values when reading code.
 
  Once you’ve declared a new type, you can create an instance like this:
  

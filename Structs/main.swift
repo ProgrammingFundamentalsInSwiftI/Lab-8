@@ -13,7 +13,7 @@ struct Song {
 
 
 // PROBLEM 1.1 : UPDATING STRUCT
-// Add another variable called rating that is an Int into the struct
+//  Add another variable called rating that is an Int into the struct
 
 
 
